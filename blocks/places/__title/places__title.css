@@ -1,0 +1,9 @@
+.places__title{
+  grid-area: places__title;
+  font-weight: bold;
+  font-size: 4.5rem;
+  line-height: 4.75rem;
+  max-width: 460px;
+  text-rendering: optimizeLegibility;
+  margin: 0;
+}
