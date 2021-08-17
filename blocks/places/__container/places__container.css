@@ -1,0 +1,15 @@
+.places__container{
+  width: 100%;
+  display: grid;
+  grid-template-areas:
+    "places__title places__website"
+    "places__image places__text";
+  grid-column-gap: 2.5rem;
+  grid-row-gap: 3rem;
+  margin: 0 0 5rem;
+  padding: 0;
+}
+
+.places__container:last-child {
+  margin: 0
+}
