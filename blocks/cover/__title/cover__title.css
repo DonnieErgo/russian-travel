@@ -7,7 +7,7 @@
   min-width: 288px;
   max-height: 152px;
   min-height: 70px;
-  margin: 0 auto;
+  margin: 0 auto 32px;
   padding: 0;
   z-index: 1;
 }
