@@ -9,4 +9,12 @@
   max-height: 66px;
   min-height: 48px;
   z-index: 1;
+  text-align: center;
+}
+
+@media screen and (max-width: 320px) {
+  .cover__subtitle{
+    font-size: 0.875rem;
+    line-height: 1rem;
+  }
 }
