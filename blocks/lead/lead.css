@@ -6,7 +6,31 @@
 @import url(__title/lead__title.css);
 
 .lead{
-  max-width: 984px;
-  margin: 0 auto;
-  padding: 0 0 5rem;
+  width: calc(100% - (148px * 2));
+  margin: 0 auto 92px;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
+}
+
+@media screen and (max-width:1024px) {
+  .lead {
+    width: calc(100% - (48px * 2));
+  }
+}
+
+@media screen and (max-width:768px) {
+  .lead {
+    width: 100%;
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width:320px) {
+  .lead {
+    margin-bottom: 64px;
+  }
 }
