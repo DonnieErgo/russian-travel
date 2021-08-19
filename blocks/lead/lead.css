@@ -1,10 +1,3 @@
-@import url(__background-pic/lead__background-pic.css);
-@import url(__caption/lead__caption.css);
-@import url(__image/lead__image.css);
-@import url(__overlay-map/lead__overlay-map.css);
-@import url(__subtitle/lead__subtitle.css);
-@import url(__title/lead__title.css);
-
 .lead{
   width: calc(100% - (148px * 2));
   margin: 0 auto 92px;

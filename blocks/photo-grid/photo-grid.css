@@ -1,5 +1,3 @@
-@import url(__img/photo-grid__img.css);
-
 .photo-grid{
   width: calc(100% - (48px * 2));
   margin: 0 48px 92px;
