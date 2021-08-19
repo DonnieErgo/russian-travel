@@ -9,7 +9,7 @@
   align-self: center;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 650px) {
   .header__lang-links{
     font-size: 1.125rem;
     line-height: 1.25rem;

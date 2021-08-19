@@ -11,7 +11,7 @@
   }
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:650px) {
   .places__url-title {
     line-height: 0.75rem;
   }

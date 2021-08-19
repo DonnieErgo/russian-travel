@@ -4,15 +4,20 @@
 @import url(__links/footer__links.css);
 
 .footer{
-  max-width: 1184px;
-  min-height: 18px;
+  width: calc(100% - (48px * 2));
   margin: 0 auto 24px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:768px) {
+  .footer {
+    width: calc(100% - (24px * 2));
+  }
+}
+
+@media screen and (max-width:650px) {
   .footer{
     flex-direction: column;
     margin-left: 16px;
