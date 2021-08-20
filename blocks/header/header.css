@@ -16,7 +16,6 @@
 @media screen and (max-width: 768px) {
   .header {
     width: calc(100% - (24px * 2));
-    margin-bottom: 48px;
   }
 }
 
@@ -26,6 +25,5 @@
     font-size: 1.125rem;
     line-height: 1.25rem;
     margin-top: 16px;
-    margin-bottom: 48px;
   }
 }

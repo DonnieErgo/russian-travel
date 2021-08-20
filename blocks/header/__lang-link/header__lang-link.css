@@ -2,9 +2,15 @@
   color: #fff;
   text-decoration: none;
   text-decoration: none;
+  margin-right: 18px;
   transition: opacity .8s ease;
+}
+
+.header__lang-link:last-child{
+  margin-right: 0;
 }
 
 .header__lang-link:hover {
   opacity: .6;
 }
+
