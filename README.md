@@ -1,16 +1,12 @@
-# Проект: Путешествие по России
+# Project: Journey through Russia
+### Adaptive landing page about travelling across Russia
 
-### Стек
-* Вёрстка по макету из Figma
+### Tech stack
+* Layout in Figma
 * HTML/CSS
 * Flexbox/Grid
-* Адаптивный дизайн
+* Adaptive design
 
-**Описание**
-
-* Проект адаптивной страницы-лендинга о путешествиях по России
-* Автор - Михаил Ненашев
-
-**Ссылка на GitHub Pages**
+**GitHub Pages link**
 
 *https://donnieergo.github.io/russian-travel/
